@@ -1,0 +1,6 @@
+ipykernel==6.29.5
+ipywidgets==8.1.5
+openai==1.42.0
+pinecone-client==5.0.1
+pip-chill==1.0.3
+python-dotenv==1.0.1

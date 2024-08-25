@@ -1,0 +1,124 @@
+{
+    "reviews": [
+      {
+        "professor": "Dr. Emily Winters",
+        "subject": "Biology",
+        "stars": 4,
+        "review": "Dr. Winters is very knowledgeable and passionate about biology. Her lectures are engaging, but sometimes the workload can be overwhelming."
+      },
+      {
+        "professor": "Prof. Michael Chen",
+        "subject": "Computer Science",
+        "stars": 5,
+        "review": "Prof. Chen is an excellent instructor. His explanations are clear, and he's always willing to help during office hours."
+      },
+      {
+        "professor": "Dr. Sarah Johnson",
+        "subject": "Psychology",
+        "stars": 3,
+        "review": "Dr. Johnson's content is interesting, but her teaching style can be a bit dry. More interactive sessions would be beneficial."
+      },
+      {
+        "professor": "Prof. Robert Taylor",
+        "subject": "Mathematics",
+        "stars": 4,
+        "review": "Prof. Taylor makes complex math concepts accessible. His problem-solving approach is very helpful."
+      },
+      {
+        "professor": "Dr. Lisa Martinez",
+        "subject": "History",
+        "stars": 5,
+        "review": "Dr. Martinez brings history to life! Her lectures are captivating, and she encourages critical thinking."
+      },
+      {
+        "professor": "Prof. James Wilson",
+        "subject": "Physics",
+        "stars": 2,
+        "review": "Prof. Wilson seems knowledgeable, but his lectures are confusing. More structured notes would help."
+      },
+      {
+        "professor": "Dr. Amanda Lee",
+        "subject": "English Literature",
+        "stars": 4,
+        "review": "Dr. Lee's passion for literature is contagious. Her feedback on essays is always constructive and helpful."
+      },
+      {
+        "professor": "Prof. David Brown",
+        "subject": "Economics",
+        "stars": 3,
+        "review": "Prof. Brown's lectures cover important concepts, but he could provide more real-world examples to illustrate them."
+      },
+      {
+        "professor": "Dr. Olivia Green",
+        "subject": "Environmental Science",
+        "stars": 5,
+        "review": "Dr. Green is an inspiring educator. Her field trips and hands-on experiments make learning exciting and memorable."
+      },
+      {
+        "professor": "Prof. Thomas Wright",
+        "subject": "Philosophy",
+        "stars": 4,
+        "review": "Prof. Wright challenges students to think deeply. Discussions in his class are always thought-provoking."
+      },
+      {
+        "professor": "Dr. Rachel Adams",
+        "subject": "Chemistry",
+        "stars": 3,
+        "review": "Dr. Adams knows her subject well, but her pacing can be too fast at times. More practice problems would be helpful."
+      },
+      {
+        "professor": "Prof. Daniel Kim",
+        "subject": "Sociology",
+        "stars": 5,
+        "review": "Prof. Kim's classes are eye-opening. He presents diverse perspectives and encourages respectful debates."
+      },
+      {
+        "professor": "Dr. Jessica Torres",
+        "subject": "Art History",
+        "stars": 4,
+        "review": "Dr. Torres has an encyclopedic knowledge of art. Her visual presentations greatly enhance the learning experience."
+      },
+      {
+        "professor": "Prof. Andrew Clark",
+        "subject": "Political Science",
+        "stars": 2,
+        "review": "Prof. Clark's lectures can be biased at times. More balanced viewpoints would improve the course."
+      },
+      {
+        "professor": "Dr. Sophia Nguyen",
+        "subject": "Neuroscience",
+        "stars": 5,
+        "review": "Dr. Nguyen is at the forefront of her field. Her integration of recent research into lessons is impressive."
+      },
+      {
+        "professor": "Prof. Mark Thompson",
+        "subject": "Business Administration",
+        "stars": 4,
+        "review": "Prof. Thompson's real-world experience in business adds great value to his teachings. Case studies are particularly useful."
+      },
+      {
+        "professor": "Dr. Laura White",
+        "subject": "Linguistics",
+        "stars": 3,
+        "review": "Dr. White's course content is interesting, but assignments can be unclear. Better communication would be appreciated."
+      },
+      {
+        "professor": "Prof. Christopher Lee",
+        "subject": "Mechanical Engineering",
+        "stars": 4,
+        "review": "Prof. Lee's practical approach to engineering problems is excellent. Lab sessions are particularly informative."
+      },
+      {
+        "professor": "Dr. Natalie Foster",
+        "subject": "Music Theory",
+        "stars": 5,
+        "review": "Dr. Foster's enthusiasm for music is infectious. Her interactive teaching style makes complex theory accessible and fun."
+      },
+      {
+        "professor": "Prof. George Harris",
+        "subject": "Statistics",
+        "stars": 3,
+        "review": "Prof. Harris explains concepts well, but exams can be much harder than practice problems. More alignment would be helpful."
+      }
+    ]
+  }
